@@ -1,6 +1,15 @@
 html {box-sizing:border-box;}
 *,*:after, *:before {box-sizing:inherit;}
 
-.class{
+.timer{
 	margin: 100px auto;
+	height: 350px;
+	width: 500px;
+	color: black;
+	background-color: orange;
+	text-align: center;
+	line-height: 350px;
+	font-family: helvetica, Arial, sans-serif;
+	font-size: 90px;
+	text-decoration: underline;
 }
